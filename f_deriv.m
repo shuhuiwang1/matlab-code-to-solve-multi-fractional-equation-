@@ -1,4 +1,5 @@
 function Y = f_deriv( y0, f, h, H,alpha)
+%this code is for solving just one fractional equation problem 
 %the y0 is the initial value,
 %y is the function, 
 %h is the lenght of step
